@@ -1,0 +1,56 @@
+{
+    "name": "Industrial Control Systems Cyber Emergency Response Team (ICS-CERT)",
+    "description": "<p>The Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) works to reduce risks within and across all critical infrastructure sectors by partnering with law enforcement agencies and the intelligence community and coordinating efforts among Federal, state, local, and tribal governments and control systems owners, operators, and vendors. Additionally, ICS-CERT collaborates with international and private sector Computer Emergency Response Teams (CERTs) to share control systems-related security incidents and mitigation measures.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Industrial Control Systems Cyber Emergency Response Team.png",
+    "tags": [
+        "cybersecurity",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/industrial-control-systems-cyber-emergency-response-team-icscert\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Industrial Control Systems Cyber Emergency Response Team (ICS-CERT)",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Industrial Control Systems Cyber Emergency Response Team.png",
+            "humanURL": "https:\/\/ics-cert.us-cert.gov\/alerts\/alerts.xml",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/industrial-control-systems-cyber-emergency-response-team-icscert-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/ics-cert.us-cert.gov\/xml\/rss.xml"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/ics-cert.us-cert.gov\/advisories\/advisories.xml"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/ics-cert.us-cert.gov\/announcements\/announcements.xml"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/icscert"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/ics-cert.us-cert.gov\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/ics-cert.us-cert.gov\/alerts\/alerts.xml"
+        }
+    ]
+}
